@@ -1,0 +1,8 @@
+{
+  "title": "Need access to the new staging environment",
+  "description": "My account does not currently have permissions to access the v2.0 staging server. Can you please grant me access?",
+  "priority": 2,
+  "categoryId": 2,
+  "raisedForUserId": 4, 
+  "assignedToAgentId": 2
+}

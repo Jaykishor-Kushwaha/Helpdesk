@@ -1,0 +1,546 @@
+{
+  "C:\\Helpdesk\\Helpdesk\\Program.cs": {
+    "mtime": 1777883585.4331608,
+    "hash": "5767fe7a4c0eeaf28c5e7c08e0f2ecb5"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\AuditLogsController.cs": {
+    "mtime": 1777882772.737914,
+    "hash": "8e24656e446ae39d9d3f0182734fb5d2"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\AuthController.cs": {
+    "mtime": 1777549071.9119318,
+    "hash": "e6b784d27474196dbb8839e71a8606b2"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\BaseController.cs": {
+    "mtime": 1776168493.1366887,
+    "hash": "583fa3f22eb42928028d45a1a54ad8c9"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\CategoriesController.cs": {
+    "mtime": 1776416271.6824372,
+    "hash": "ea3432d5755ad9b355b32bc1992ccbd3"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\CommentsController.cs": {
+    "mtime": 1776256108.1115952,
+    "hash": "f69958f9c07ca83fbf98e7be8580565c"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\DashboardController.cs": {
+    "mtime": 1775544134.9561443,
+    "hash": "89f5e0003c13dd763498c326896b6f74"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\DepartmentsController.cs": {
+    "mtime": 1777905422.1316724,
+    "hash": "5db61115ce83a1697d5731bff6b4860d"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\KBArticlesController.cs": {
+    "mtime": 1777904657.2740345,
+    "hash": "779270b9a38c2908c1300a5e7a8411e4"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\RecurringTemplatesController.cs": {
+    "mtime": 1777541379.129828,
+    "hash": "ea8756b4b9a839d1b4e65bc7414e3af0"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\ReportsController.cs": {
+    "mtime": 1777882006.9993136,
+    "hash": "57becbe547ae30e62e1a6df339cc9a1a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\SurveysController.cs": {
+    "mtime": 1777543181.4750824,
+    "hash": "fb641f79385b53d5a2a95fd1ef2355ae"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\SystemSettingsController.cs": {
+    "mtime": 1777883608.9190156,
+    "hash": "f3033e5df542abde6577e0e3420054dd"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\TicketsController.cs": {
+    "mtime": 1777905510.3048532,
+    "hash": "588ecf439ef7c1b10f49fa3b149170b8"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Controllers\\UsersController.cs": {
+    "mtime": 1777881336.0650275,
+    "hash": "722539698cebadcbafbc88ada0476bd0"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Data\\AppDbContext.cs": {
+    "mtime": 1777904564.7861772,
+    "hash": "d44c11484e630e9d31f527c56360087e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Data\\DbInitializer.cs": {
+    "mtime": 1777903789.5361373,
+    "hash": "bfe82471c0910b7807a347ee29a945b6"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\AuditLogDtos.cs": {
+    "mtime": 1777882690.5750184,
+    "hash": "d03ca6800cc2237d677ff1bbdcde51e8"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\AuthDtos.cs": {
+    "mtime": 1777549033.0780795,
+    "hash": "9d777b86c6ca2c03ca5923f809f31162"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\CategoryDtos.cs": {
+    "mtime": 1775628217.9122534,
+    "hash": "9e035dcb41b044e9dc68cad85ce950fb"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\CommentDtos.cs": {
+    "mtime": 1775627373.4498718,
+    "hash": "c451b7e35555b71d087571615a7bc6ee"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\DashboardDto.cs": {
+    "mtime": 1777883156.7392097,
+    "hash": "37527e2b385956d4c73e6467738f4b0e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\DepartmentDtos.cs": {
+    "mtime": 1777883423.6440516,
+    "hash": "172916fe2b78f01b05d89969e04a720f"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\KBArticleDtos.cs": {
+    "mtime": 1777882912.0801272,
+    "hash": "27129a40efc5130042f5f097d98e4df9"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\RecurringTemplateDtos.cs": {
+    "mtime": 1777541375.0547159,
+    "hash": "b83d01a4032958084448f7725719bf27"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\ReportDtos.cs": {
+    "mtime": 1777881932.8497076,
+    "hash": "8626de52c60933642e853dc0338b132e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\SurveyDtos.cs": {
+    "mtime": 1777537865.89685,
+    "hash": "c380d382b1870f71b7c789b2075cb361"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\SystemSettingDtos.cs": {
+    "mtime": 1777883563.6332405,
+    "hash": "ec215ee8c795bd0c38c4fef55fb02097"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\TicketDtos.cs": {
+    "mtime": 1777881744.5381615,
+    "hash": "875dc8046054a7a60e84eb76ce72f8f0"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\TicketFilterDto.cs": {
+    "mtime": 1775629911.722191,
+    "hash": "035dd37684707ce224da0fc07c793fb3"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\UserDtos.cs": {
+    "mtime": 1777881315.3484945,
+    "hash": "12333878db013fe93e116497c30e256d"
+  },
+  "C:\\Helpdesk\\Helpdesk\\DTOs\\Common\\CommonDtos.cs": {
+    "mtime": 1775630174.9044027,
+    "hash": "2dcf9d37d84bbc3cce8182bc25776b7b"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Enums\\Enums.cs": {
+    "mtime": 1777903768.4880645,
+    "hash": "07ed51026490c0f73a845c16137ca912"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Helper\\RoleHelper.cs": {
+    "mtime": 1775368802.090464,
+    "hash": "fdd3d204600d7f6e60f802ee84feca99"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Helper\\Roles.cs": {
+    "mtime": 1777903780.3736324,
+    "hash": "12c49cc5a6b04ea0cc6751518b70a655"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IAuditLogService.cs": {
+    "mtime": 1777882768.6998782,
+    "hash": "14a5b8ffebe87ffb27e76402bb2432df"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IAuthService.cs": {
+    "mtime": 1777549058.7826967,
+    "hash": "e95c1c8a522d10717869f335cb474c14"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ICategoryService.cs": {
+    "mtime": 1775628231.591903,
+    "hash": "a2a3b7980c250e75885910ee329c4118"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ICommentService.cs": {
+    "mtime": 1775627386.9884646,
+    "hash": "feb6740ee16871c474bb3a969f9abeb8"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ICurrentUserService.cs": {
+    "mtime": 1775543194.7392972,
+    "hash": "0aec760462190e49ece980f43ae2ec9e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IDashboardService.cs": {
+    "mtime": 1775543199.6421692,
+    "hash": "5ebb67e334cd7dd9e28909d1423e72de"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IDepartmentService.cs": {
+    "mtime": 1777905391.4187524,
+    "hash": "d37127ddfb4dff264ff4da9426ea60b6"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IGenericRepository.cs": {
+    "mtime": 1775632151.7360735,
+    "hash": "3760f4fb62563d723a5b6c54d2dc4f5d"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IKBArticleService.cs": {
+    "mtime": 1777904624.7173908,
+    "hash": "8c3c482f69a0b293dc4fec26a2f56537"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\INotificationService.cs": {
+    "mtime": 1777537660.2654374,
+    "hash": "afaef5838c25f9604b24c0bb851a0377"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IRecurringTemplateService.cs": {
+    "mtime": 1777540339.8143928,
+    "hash": "dc0b9bc1ce52b5d4dbaffe41f602e541"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IReportingService.cs": {
+    "mtime": 1777882568.9866357,
+    "hash": "aa937d49b3bd0abb370e9f94f3f16f43"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ISlaCalculationEngine.cs": {
+    "mtime": 1777906148.60032,
+    "hash": "562a55587840b53193d80cd9c88adb47"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ISurveyService.cs": {
+    "mtime": 1777543176.0594783,
+    "hash": "fcac4fa918d279918bd013cff8cf639a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ISystemSettingService.cs": {
+    "mtime": 1777883567.6900353,
+    "hash": "86634bb5d3ace9885bd6cd4342e2dfdb"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\ITicketService.cs": {
+    "mtime": 1777882927.3806345,
+    "hash": "b0c6a17c85043f729df5581e25ab8690"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IUnitOfWork.cs": {
+    "mtime": 1777883375.6974778,
+    "hash": "a6e29fae791c47eb8bcb3ed72c1cf5f6"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Interfaces\\IUserService.cs": {
+    "mtime": 1777881318.5987263,
+    "hash": "5173f421f53c9cad64b1bbf3c624239b"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Mappings\\MappingProfile.cs": {
+    "mtime": 1777537877.652089,
+    "hash": "7c270ccf17bead60d0a9db7e14b0a96b"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Middleware\\ExceptionMiddleware.cs": {
+    "mtime": 1777531809.584454,
+    "hash": "3d2de58b3f422a7ba5a56f624d040b99"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Middleware\\ForbiddenException.cs": {
+    "mtime": 1775474207.2384539,
+    "hash": "be5754bb2a429d0b18e1d9abdcdd4829"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Middleware\\NotFoundException.cs": {
+    "mtime": 1775474793.9962938,
+    "hash": "fee9b5956db8c52246f84c766ee21e9a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Middleware\\ValidationException.cs": {
+    "mtime": 1775473875.7025309,
+    "hash": "2c6310d7129fea9c4f6a5e3e60033413"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260407065556_init.cs": {
+    "mtime": 1775544956.3735774,
+    "hash": "f12c4a824e35e1a550aa3bde175679dc"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260407065556_init.Designer.cs": {
+    "mtime": 1775544956.3745782,
+    "hash": "f7aea47b4266cbc3c4dea793bae74136"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260415062423_AddCustomUserRole.cs": {
+    "mtime": 1776234263.7799447,
+    "hash": "7690e06449544415ddbfbe594764f685"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260415062423_AddCustomUserRole.Designer.cs": {
+    "mtime": 1776234263.7808657,
+    "hash": "094971ba61917b62fd41993f4286a563"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430070138_AddPerformedByUserIdToAuditLog.cs": {
+    "mtime": 1777532498.3433647,
+    "hash": "858b6a625fa672f65f77583a0b42f08e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430070138_AddPerformedByUserIdToAuditLog.Designer.cs": {
+    "mtime": 1777532498.3443658,
+    "hash": "756ba32ce4662816ad77feac7b8f50b7"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430081028_AddV2Features.cs": {
+    "mtime": 1777536629.009609,
+    "hash": "67345a6806cb38a01dbe8a2413be3dec"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430081028_AddV2Features.Designer.cs": {
+    "mtime": 1777536629.010645,
+    "hash": "6a03f40d39ef0724f9850b1940d90e49"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430084937_AddSlaWarningSentFlag.cs": {
+    "mtime": 1777538977.6280954,
+    "hash": "7f72e9ad4141f7b625e375bd7beab674"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430084937_AddSlaWarningSentFlag.Designer.cs": {
+    "mtime": 1777538977.6280954,
+    "hash": "663b432e78fa1c975bc08a6c4fa212a5"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430101457_AddIsSurveySent.cs": {
+    "mtime": 1777544097.6693523,
+    "hash": "37be2ad4fecd0626660ad0c0a6310a4e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260430101457_AddIsSurveySent.Designer.cs": {
+    "mtime": 1777544097.6693523,
+    "hash": "2436c6836029719c5cef3c9540a46c9a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504075407_AddNextRetryAt.cs": {
+    "mtime": 1777881247.3858674,
+    "hash": "627e8c057ac684ce55cbcdd11ed6a46c"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504075407_AddNextRetryAt.Designer.cs": {
+    "mtime": 1777881247.3919835,
+    "hash": "ade6208c2e9bd8f13691814d3cb9f238"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504080042_AddSlaPauseFields.cs": {
+    "mtime": 1777881642.1104724,
+    "hash": "2797dff69245d0957afb073dbb3221a6"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504080042_AddSlaPauseFields.Designer.cs": {
+    "mtime": 1777881642.111541,
+    "hash": "c93670f1b3a387bed7f2f834e34cb2d1"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504081830_AddAuditLogIpAddress.cs": {
+    "mtime": 1777882710.8241591,
+    "hash": "5cf125afffb1b5eeda209b3d9e6c18a0"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504081830_AddAuditLogIpAddress.Designer.cs": {
+    "mtime": 1777882710.828976,
+    "hash": "e1a6a7c27a2d80fb7b0001bd544cbe59"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504082222_AddResolvedViaKB.cs": {
+    "mtime": 1777882942.3014517,
+    "hash": "0fae8b3da1571c12ee441fa2dd4f7561"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504082222_AddResolvedViaKB.Designer.cs": {
+    "mtime": 1777882942.3034687,
+    "hash": "8c1f96277f08660c7427be42d9999357"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504082449_AddEscalationWorkflowFields.cs": {
+    "mtime": 1777883089.8715158,
+    "hash": "49c8b799cd782d9b4f3a84e07a0166f7"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504082449_AddEscalationWorkflowFields.Designer.cs": {
+    "mtime": 1777883089.8729851,
+    "hash": "ce0b083ee288dcd338154c8af07269a5"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504083001_AddRecurringTemplateRunLog.cs": {
+    "mtime": 1777883401.943257,
+    "hash": "24cb314e30c46461abb7d4c9bf9b5838"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504083001_AddRecurringTemplateRunLog.Designer.cs": {
+    "mtime": 1777883401.9446435,
+    "hash": "1d64d881e32dd3f6c7e00e5f00890a85"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504143149_AddReopenCountAndEscalationFields.cs": {
+    "mtime": 1777905109.5061524,
+    "hash": "b2fc29b0867c57183b21cfd6dafbd907"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\20260504143149_AddReopenCountAndEscalationFields.Designer.cs": {
+    "mtime": 1777905109.5086653,
+    "hash": "8b3e517c9fd40dc51a07c2da91070346"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Migrations\\AppDbContextModelSnapshot.cs": {
+    "mtime": 1777905109.5086653,
+    "hash": "bf4332d26b58769363b679203257d3bf"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\AuditLog.cs": {
+    "mtime": 1777882685.9306672,
+    "hash": "0d0c8c89fb2d1be3b9b59eb263922797"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\AuditLogDetail.cs": {
+    "mtime": 1775631943.251752,
+    "hash": "e5729325749c1f9c9febe4c79d876c98"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\Category.cs": {
+    "mtime": 1777536334.1404924,
+    "hash": "67ccbaac93a5843b6d56f5f91801e40f"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\Comment.cs": {
+    "mtime": 1775631943.2647512,
+    "hash": "f7d212c92aa5e94d71a13dd0a7449e9a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\Department.cs": {
+    "mtime": 1777905440.4626932,
+    "hash": "c8ea35d15e447bd14afaf35604b89afb"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\IEntity.cs": {
+    "mtime": 1775631943.2315474,
+    "hash": "f87b0825756613f2cd25a43064d9720a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\KBArticle.cs": {
+    "mtime": 1777536324.0429726,
+    "hash": "378edc2b760431187b82433f759bd2dd"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\KBArticleVersion.cs": {
+    "mtime": 1777535225.2966619,
+    "hash": "bed78b3d047bffedbfea53c0dd3dbc78"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\NotificationOutbox.cs": {
+    "mtime": 1777881232.20963,
+    "hash": "38933d180effee1210d7675395665eed"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\NotificationPreferences.cs": {
+    "mtime": 1777883115.7499623,
+    "hash": "d3ca3a4f920d76db7bd759515b54f36e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\RecurringTemplate.cs": {
+    "mtime": 1777536330.1021302,
+    "hash": "67b6446811042a72e4a0009c409771d0"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\RecurringTemplateRunLog.cs": {
+    "mtime": 1777883269.215737,
+    "hash": "ab010044bf279ea19252ad3c9815ad68"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\SurveyResponse.cs": {
+    "mtime": 1777536328.0835843,
+    "hash": "93ce57c93a794418de87bede1df60e49"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\SystemSetting.cs": {
+    "mtime": 1777535381.4829836,
+    "hash": "82c2798b6bfa57fce547ab4f7922924f"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\Ticket.cs": {
+    "mtime": 1777903966.1601596,
+    "hash": "14d1a6e88e301e233666188168f26af9"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\User.cs": {
+    "mtime": 1777548896.5473049,
+    "hash": "ba39f9bf21ad37abdd298c6b6fffaf4a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Models\\UserRole.cs": {
+    "mtime": 1776234027.8611457,
+    "hash": "f228a6f78f77bf463bef7e913283bffc"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\Helpdesk.AssemblyInfo.cs": {
+    "mtime": 1775631946.4557474,
+    "hash": "1c0ee991282356a12c5f710fc022c5f1"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\Helpdesk.GlobalUsings.g.cs": {
+    "mtime": 1775139581.4206512,
+    "hash": "5b3fdaae7b59d230d7d136eab049a98a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\Helpdesk.MvcApplicationPartsAssemblyInfo.cs": {
+    "mtime": 1777536393.8217392,
+    "hash": "5463144521d470907c4bda32e1454692"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Release\\net8.0\\Helpdesk.AssemblyInfo.cs": {
+    "mtime": 1777531224.3698897,
+    "hash": "e78c86b975ac9ff04f4fa975e5ead073"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Release\\net8.0\\Helpdesk.GlobalUsings.g.cs": {
+    "mtime": 1777531224.3015513,
+    "hash": "5b3fdaae7b59d230d7d136eab049a98a"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Repositories\\GenericRepository.cs": {
+    "mtime": 1775632229.210547,
+    "hash": "563f7ae82828500ddb50f26c3563bb05"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Repositories\\UnitOfWork.cs": {
+    "mtime": 1777883377.7228887,
+    "hash": "273225916b3317b9409cbe3eadc340ad"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\AuditLogService.cs": {
+    "mtime": 1777882770.721889,
+    "hash": "442cc10f326730a92eab11c6cdcca7fd"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\AuthService.cs": {
+    "mtime": 1777881414.0137775,
+    "hash": "fe2f153d408c9268af92b2c0a8cdc5f2"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\CategoryService.cs": {
+    "mtime": 1775628262.5115492,
+    "hash": "f0509c9876857c5cff80f9e2c76e4faa"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\CommentService.cs": {
+    "mtime": 1777904187.7231565,
+    "hash": "a3aa8196adecee5957c8504c38cbd717"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\CurrentUserService.cs": {
+    "mtime": 1775543771.806399,
+    "hash": "720e9b02b0d3b1f67c0b2d3614c600b9"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\DashboardService.cs": {
+    "mtime": 1777903863.2519367,
+    "hash": "753062084852d0cdd1accc271ebb2f62"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\DepartmentService.cs": {
+    "mtime": 1777905451.9347062,
+    "hash": "d4035647a9d638e1e5d14fc6d1435750"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\KBArticleService.cs": {
+    "mtime": 1777904863.941429,
+    "hash": "8a645552812c0ed78b3df3abc6dfba1c"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\NotificationService.cs": {
+    "mtime": 1777537711.8714426,
+    "hash": "4e084bf659e2690db4b2a7521778b300"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\RecurringTemplateService.cs": {
+    "mtime": 1777883356.1399674,
+    "hash": "082acb1d58a5e897e8e2db1e96cfd8f1"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\ReportingService.cs": {
+    "mtime": 1777905259.024541,
+    "hash": "710bb6a1bc2a4d65b582ca7808775154"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\ReportQueue.cs": {
+    "mtime": 1777881976.9370015,
+    "hash": "f767ab0c2455a07f04055ae78602b14f"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\SlaCalculationEngine.cs": {
+    "mtime": 1777906188.1942184,
+    "hash": "c82b2cfb00e0b96e205cf1911d26112f"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\SurveyService.cs": {
+    "mtime": 1777905196.982247,
+    "hash": "2f87f87b40e5f1bd01d5d0789ba9742c"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\SystemSettingService.cs": {
+    "mtime": 1777883565.6545167,
+    "hash": "cd49b33ec530f63306c8436fa064d705"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\TicketService.cs": {
+    "mtime": 1777904385.408731,
+    "hash": "5d7de1e26799e58c27b418afa77cdb73"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Services\\UserService.cs": {
+    "mtime": 1777881334.0374508,
+    "hash": "b2dc56d2e66f7e6ee66f0100cc5b5ddb"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Workers\\EmailBackgroundWorker.cs": {
+    "mtime": 1777881297.4126956,
+    "hash": "aece1b5a97eb45608bef983a53619de5"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Workers\\RecurringTicketWorker.cs": {
+    "mtime": 1777883275.3824131,
+    "hash": "e09b927d3d37822bb664369b8be1c22e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Workers\\ReportBackgroundWorker.cs": {
+    "mtime": 1777882004.9833996,
+    "hash": "d4599263e206b88578d36eec7be70455"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Workers\\SlaMonitorWorker.cs": {
+    "mtime": 1777906274.2328804,
+    "hash": "8750a8d9ba0d1ddf5d73c472acbb9a23"
+  },
+  "C:\\Helpdesk\\Helpdesk\\Workers\\TicketArchivalWorker.cs": {
+    "mtime": 1777883582.9898448,
+    "hash": "9e30552da49676bf0545ca0972cacf63"
+  },
+  "C:\\Helpdesk\\README.md": {
+    "mtime": 1777533684.4303648,
+    "hash": "b21406b2a06640560c7c77934ca1787b"
+  },
+  "C:\\Helpdesk\\Helpdesk\\bin\\Debug\\net8.0\\LatoFont\\OFL.txt": {
+    "mtime": 1774014254.0,
+    "hash": "99aa8fee7ed71044ae773b92d79ab24c"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\Helpdesk.csproj.FileListAbsolute.txt": {
+    "mtime": 1777905107.2166743,
+    "hash": "36afda439087286c2fc3488338b5df11"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt": {
+    "mtime": 1775139692.358062,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Helpdesk\\Helpdesk\\obj\\Debug\\net8.0\\staticwebassets.removed.txt": {
+    "mtime": 1775139584.536794,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+}
