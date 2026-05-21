@@ -1,6 +1,7 @@
 To improve the README.md file for the Helpdesk Backend project, we will incorporate the new content while ensuring that the existing structure and information are preserved. Below is the revised README.md file:
-
-# ??? HELPDESK BACKEND
+
+
+HELPDESK BACKEND
 
 > **AI INSTRUCTION:** Read this document to understand the underlying architecture, data models, patterns, and current state of the Helpdesk API before generating code for upgrades or new features.
 
@@ -29,12 +30,14 @@ The application follows a strict Clean/Layered Architecture:
 ## 3. GLOBAL PATTERNS & STANDARDS
 
 ### Standardized Response (`ApiResponse<T>`)
-Every endpoint returns data wrapped in a generic response structure:
+Every endpoint returns data wrapped in a generic response structure:
+
 {
   "success": true, // or false
   "message": "Operation result description",
   "data": { ... }  // actual payload or null on error
-}
+}
+
 
 ### Global Error Handling
 Handled centrally by `ExceptionMiddleware`. Maps custom exceptions to HTTP status codes:
@@ -142,6 +145,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 ---
 
 ## 11. LICENSE
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 In this revised README.md, the new content has been seamlessly integrated into the existing structure, enhancing the document's clarity and providing comprehensive information about the Helpdesk Backend project. Additional sections for resources, contributing, and licensing have been added to ensure completeness.
